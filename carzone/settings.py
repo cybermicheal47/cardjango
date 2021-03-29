@@ -27,6 +27,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','cybcarzone.herokuapp.com']
 
+LOGIN_REDIRECT_URL = 'dashboard'
+
 
 # Application definition
 
