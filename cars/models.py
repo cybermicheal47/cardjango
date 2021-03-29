@@ -128,6 +128,10 @@ class cars(models.Model):
     def __str__(self):
         return self.car_title
 
+    @classmethod
+    def filter(cls, description__icontains):
+        pass
+
 
 
 
