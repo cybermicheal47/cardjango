@@ -25,7 +25,7 @@ SECRET_KEY = 'c7xv467n(348tpw#^t5r2$-)i4o8sc6p3pm&hdo$egkn2&piq-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','cybcarzone.herokuapp.com/']
+ALLOWED_HOSTS = ['127.0.0.1','cybcarzone.herokuapp.com']
 
 
 # Application definition
